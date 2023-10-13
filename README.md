@@ -60,7 +60,7 @@ My name is Déodat ADANDEDJAN, student specializing in Software Engineering. Pas
     --->   DESIGNTOOLS
     
 
- **Logiciels**:low_brightness:    
+ **Software**:low_brightness:    
                                                                       
 
 -- Figma 

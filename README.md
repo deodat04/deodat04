@@ -22,7 +22,7 @@ My name is Déodat ADANDEDJAN, student specializing in Software Engineering. Pas
 
 -- CSS3
 
--- JS  
+-- JS 
 
 -- PHP 
 
@@ -44,6 +44,10 @@ My name is Déodat ADANDEDJAN, student specializing in Software Engineering. Pas
 -- React
 
 -- SpringBoot
+
+-- Laravel
+
+-- Flutter
 
 
 **Operating Systems**(OS):dvd:
